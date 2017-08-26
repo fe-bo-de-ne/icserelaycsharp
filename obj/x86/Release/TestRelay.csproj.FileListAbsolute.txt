@@ -1,0 +1,7 @@
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\bin\Release\TestRelay.exe
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\bin\Release\TestRelay.pdb
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\obj\x86\Release\TestRelay.frmIcStationRelay.resources
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\obj\x86\Release\TestRelay.Properties.Resources.resources
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\obj\x86\Release\TestRelay.csproj.GenerateResource.Cache
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\obj\x86\Release\TestRelay.exe
+C:\work\relay_icse013a\testc#\TestRelay_Clean\TestRelay\obj\x86\Release\TestRelay.pdb
